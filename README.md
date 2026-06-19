@@ -1,2 +1,2 @@
 Age-Calculator 
-fastest way to cal culate Afe 
+fastest way to cal culate Age 
